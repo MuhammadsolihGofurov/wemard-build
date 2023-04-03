@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.09c26e4a.css",
+    "main.css": "/static/css/main.62811183.css",
     "main.js": "/static/js/main.ff803b46.js",
     "reactPlayerYouTube.js": "/static/js/reactPlayerYouTube.62d33f6c.chunk.js",
     "reactPlayerSoundCloud.js": "/static/js/reactPlayerSoundCloud.a176d4ce.chunk.js",
@@ -24,8 +24,8 @@
     "static/media/venice-bg.png": "/static/media/venice-bg.65d68bf9acc9381e5a02.png",
     "static/media/supreme-bg.png": "/static/media/supreme-bg.d4e4cdd0a10c331afddc.png",
     "static/media/laptop.png": "/static/media/laptop.4d880f2670f06fea7dc7.png",
-    "static/media/bg.jpg": "/static/media/bg.cdc163e4f970bfe9edca.jpg",
     "static/media/oshpaz-bg.png": "/static/media/oshpaz-bg.c6a141d2da3ffeee2844.png",
+    "static/media/bg.jpg": "/static/media/bg.27c1110e78385ee4120a.jpg",
     "static/media/moena-comp.png": "/static/media/moena-comp.cc66ac6e8835c2b59762.png",
     "static/media/oshpaz-comp.png": "/static/media/oshpaz-comp.7875dff33f2fb16b0b0a.png",
     "static/media/venice-comp.png": "/static/media/venice-comp.915a16faab4d1aa0b4fb.png",
@@ -36,7 +36,7 @@
     "static/media/results.png": "/static/media/results.3e74ad7ccb8779bb4347.png",
     "static/media/oshpaz-logo.png": "/static/media/oshpaz-logo.bc2cc75466b227e01f03.png",
     "index.html": "/index.html",
-    "main.09c26e4a.css.map": "/static/css/main.09c26e4a.css.map",
+    "main.62811183.css.map": "/static/css/main.62811183.css.map",
     "main.ff803b46.js.map": "/static/js/main.ff803b46.js.map",
     "reactPlayerYouTube.62d33f6c.chunk.js.map": "/static/js/reactPlayerYouTube.62d33f6c.chunk.js.map",
     "reactPlayerSoundCloud.a176d4ce.chunk.js.map": "/static/js/reactPlayerSoundCloud.a176d4ce.chunk.js.map",
@@ -53,7 +53,7 @@
     "reactPlayerPreview.27c00ab0.chunk.js.map": "/static/js/reactPlayerPreview.27c00ab0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.09c26e4a.css",
+    "static/css/main.62811183.css",
     "static/js/main.ff803b46.js"
   ]
 }
